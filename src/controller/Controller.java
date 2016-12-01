@@ -29,10 +29,10 @@ public class Controller
 		messageList.add("Over here!");
 		messageList.add("You can't get me!");
 		messageList.add("Gotta be quick!");
-		messageList.add("You hoo!");
 		messageList.add("Hahaha");
 		messageList.add("Nice try!");
 		messageList.add("Too slow!");
+		messageList.add("You shouldn't have ran this file!");
 	}
 	
 	public void start()
